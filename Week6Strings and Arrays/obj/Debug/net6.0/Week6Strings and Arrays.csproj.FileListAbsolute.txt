@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\bin\Debug\net6.0\Week6Strings and Arrays.exe
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\bin\Debug\net6.0\Week6Strings and Arrays.deps.json
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\bin\Debug\net6.0\Week6Strings and Arrays.runtimeconfig.json
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\bin\Debug\net6.0\Week6Strings and Arrays.dll
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\bin\Debug\net6.0\Week6Strings and Arrays.pdb
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.dll
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\refint\Week6Strings and Arrays.dll
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.pdb
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\Week6Strings and Arrays.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\harjutus\harjutus\Week6Strings and Arrays\Week6Strings and Arrays\obj\Debug\net6.0\ref\Week6Strings and Arrays.dll
